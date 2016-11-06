@@ -24,3 +24,19 @@ blockquote:before {
   margin-top: -5rem;
   float: right;
 }*/
+
+.reveal pre {
+  width: 100%
+}
+
+.reveal pre code {
+  max-height: none;
+}
+
+.marc-field, .xml-tag {color: blue;}
+
+.marc-indicator, .xml-attribute {color: red;}
+
+.marc-delimiter, .xml-value {color: green;}
+
+.marc-subfield {color: orange}
