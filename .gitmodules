@@ -1,0 +1,3 @@
+[submodule "lectures"]
+	path = lectures
+	url = git@github.com:helrond/HISTGA2031Lectures.git
